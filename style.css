@@ -1,0 +1,127 @@
+html, body {
+  height: 100%;
+  width: 100%;
+background-color: #fff0f9;
+}
+
+.links {
+  margin-right: auto;
+  margin-left: auto;
+  display: inline-blockblock;
+}
+
+.button1 {
+  padding: 10px;
+  border-width: 3px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #607ed7;
+  border-color: #607ed7;
+}
+
+.button1:hover {
+  background-color: #4c5e94;
+  border-color: #4c5e94;
+  cursor: grab;
+}
+
+.button1:active {
+  background-color: #3e4c74;;
+  border-color: #3e4c74;
+  cursor: grabbing;
+}
+
+.button2 {
+  padding: 10px;
+  border-width: 3px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #479a47;
+  border-color: #48c748;
+}
+
+.button2:hover {
+  background-color: #3c723c;
+  border-color: #3b7d3b;
+  cursor: grab;
+}
+
+.button2:active {
+  background-color: #365936;
+  border-color: #355f35;
+  cursor: grabbing;
+}
+
+.button3 {
+  padding: 10px;
+  border-width: 3px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #ba00bd;
+  border-color: #c900cc;
+}
+
+.button3:hover {
+  background-color: #910094;
+  border-color: #820085;
+  cursor: grab;
+}
+
+.button3:active {
+  background-color: #550057;
+  border-color: #5f0061;
+  cursor: grabbing;
+}
+
+.button4 {
+  padding: 10px;
+  border-width: 3px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #d6cf00;
+  border-color: #ccc500;
+}
+
+.button4:hover {
+  background-color: #d1ca00;
+  border-color: #999400;
+  cursor: grab;
+}
+
+.button4:active {
+  background-color: #a39e00;
+  border-color: #666300;
+  cursor: grabbing;
+}
+
+.capydiv {
+  text-align: center;
+}
+
+.capyimage {
+  float: left;
+  margin: 5px;
+  cursor: grab;
+}
+.capyimage:active {
+  float: left;
+  margin: 5px;
+  cursor: grabbing;
+}
+
+.capytext {
+  text-align: justify;
+  font-size: 25px;
+  margin-right: 20px;
+}
+
+
+
+
+
+
+

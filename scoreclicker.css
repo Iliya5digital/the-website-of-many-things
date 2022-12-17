@@ -1,0 +1,60 @@
+body {
+  margin: 10%;
+  margin-top: 5%;
+  background-color: rgb(192, 217, 255);
+  
+}
+
+.scorediv {
+  text-align: center;
+}
+
+.scorebutton {
+  font-size: large;
+  background-color: rgb(129, 192, 255);
+  padding: 10px;
+  border-radius: 10px;
+  border-color: rgb(103, 179, 255);
+  border-width: 3px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgb(80, 80, 80);
+}
+
+.scorebutton:hover {
+  background-color: rgb(89, 172, 255);
+  border-color: rgb(65, 160, 255);
+}
+
+#totalscore {
+  text-align: center;
+  text-shadow: 5px 5px 5px rgb(80, 80, 80);
+  font-size: 100px;
+  color: rgb(0, 0, 0);
+}
+
+.scoretitle {
+  text-align: center;
+  font-size: 50px;
+}
+
+.button1 {
+  padding: 10px;
+  border-width: 3px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #607ed7;
+  border-color: #607ed7;
+}
+
+.button1:hover {
+  background-color: #4c5e94;
+  border-color: #4c5e94;
+  cursor: grab;
+}
+
+.button1:active {
+  background-color: #3e4c74;;
+  border-color: #3e4c74;
+  cursor: grabbing;
+}
